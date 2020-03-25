@@ -15,3 +15,4 @@ dependencies:
 
 * [sleek_button](https://github.com/aloisdeniel/sleek_button)
 * [sleek_palette](https://github.com/aloisdeniel/sleek_palette)
+* [sleek_spacing](https://github.com/aloisdeniel/sleek_spacing)
