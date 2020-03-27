@@ -1,6 +1,6 @@
 name: sleek
 description: A toolbelt for building your next user interface.
-version: 0.1.4
+version: 0.2.0
 homepage: https://github.com/aloisdeniel/sleek
 
 environment:

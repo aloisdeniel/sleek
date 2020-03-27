@@ -11,6 +11,15 @@ dependencies:
     sleek: <version>
 ```
 
+## Quickstart
+
+```dart
+Sleek(
+    data: <optional configuration>
+    child: <your app>
+);
+```
+
 ## Included packages
 
 * [sleek_button](https://github.com/aloisdeniel/sleek_button)
