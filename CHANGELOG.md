@@ -1,3 +1,7 @@
+## [0.2.1] - 2020/03/25
+
+* Updated button padding.
+
 ## [0.2.0] - 2020/03/25
 
 * Added `Sleek` root widget.

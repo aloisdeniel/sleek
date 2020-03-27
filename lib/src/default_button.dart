@@ -22,7 +22,7 @@ class SleekDefaultButtonTheme extends StatelessWidget {
     final fontSize = buttonTextStyle.size.toPoints(typography: typography);
     return SleekButtonThemeData(
       fill: palette.primary,
-      padding: spacing.normal,
+      padding: spacing.medium,
       textStyle: buttonTextStyle.toTextStyle(context, typography: typography),
       cornerRadius: 4.0,
       borderWidth: 1.0,
