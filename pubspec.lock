@@ -224,6 +224,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.1.0"
+  sleek_typography:
+    dependency: "direct main"
+    description:
+      name: sleek_typography
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.1.2"
   source_span:
     dependency: transitive
     description:
@@ -265,7 +272,7 @@ packages:
       name: test_api
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.2.11"
+    version: "0.2.15"
   typed_data:
     dependency: transitive
     description:

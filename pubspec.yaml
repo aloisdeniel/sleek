@@ -1,6 +1,6 @@
 name: sleek
 description: A toolbelt for building your next user interface.
-version: 0.1.2
+version: 0.1.3
 homepage: https://github.com/aloisdeniel/sleek
 
 environment:
@@ -10,6 +10,7 @@ dependencies:
   sleek_button: ^0.1.0
   sleek_palette: ^0.1.0
   sleek_spacing: ^0.1.0
+  sleek_typography: ^0.1.0
   flutter:
     sdk: flutter
 
